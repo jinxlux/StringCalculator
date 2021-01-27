@@ -4,3 +4,6 @@ Calculate the sum of numbers in a string
 Python3
 ## IDE
 PyCharm
+## Run
+Run the program inside the StringCalculatorProject workspace 
+
